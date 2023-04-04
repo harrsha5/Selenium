@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.app.Test.WaitsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-04-03T22:24:42" hostname="MERL251410" time="28.258">
+  <properties/>
+  <testcase name="testExplicitEWaitCondition" classname="com.app.Test.WaitsTest" time="6.029"/>
+  <testcase name="testExplicitWait" classname="com.app.Test.WaitsTest" time="2.459"/>
+  <testcase name="testImplicitWaitIfAppliesToAllElements" classname="com.app.Test.WaitsTest" time="10.53"/>
+  <testcase name="testThreadSleepEWaitCondition" classname="com.app.Test.WaitsTest" time="9.231"/>
+  <system-out><![CDATA[Closing the Browser
+The time stamp of find the search element 2023-04-03 16:24:54.55
+The time stamp of find the search element 2023-04-03 16:24:56.024
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 18580
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 23952
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 31714
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 18084
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>

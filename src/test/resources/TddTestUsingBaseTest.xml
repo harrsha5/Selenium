@@ -1,0 +1,7 @@
+<suite name="TddTestUsingBaseTest"  parallel= "methods"  thread-count="6">
+    <test name="TddTestUsingBaseTest">
+        <classes>
+            <class name="com.app.Test.TddTestUsingBaseTest"/>
+        </classes>
+    </test>
+</suite>

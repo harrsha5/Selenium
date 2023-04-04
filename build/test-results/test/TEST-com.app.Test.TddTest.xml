@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.app.Test.TddTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-03T22:23:34" hostname="MERL251410" time="33.148">
+  <properties/>
+  <testcase name="searchForKeyWord[0](Vimala Devi)" classname="com.app.Test.TddTest" time="11.139"/>
+  <testcase name="searchForKeyWord[0](Sri Harshavardhan)" classname="com.app.Test.TddTest" time="11.202"/>
+  <testcase name="searchForKeyWordWithIterator[0](George Bush)" classname="com.app.Test.TddTest" time="11.079"/>
+  <testcase name="searchForKeyWordWithIterator[0](Barack Obama)" classname="com.app.Test.TddTest" time="11.143"/>
+  <testcase name="searchForKeyWordWithObject[0]([Ljava.lang.Object;@61990c38)" classname="com.app.Test.TddTest" time="10.782"/>
+  <testcase name="searchForKeyWordWithObject[0]([Ljava.lang.Object;@7c22c1a2)" classname="com.app.Test.TddTest" time="10.798"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 25502
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 4373
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 33004
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 35294
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 36282
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 13050
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
